@@ -1,0 +1,14 @@
+{
+  "name": "leetcode_solutions_js",
+  "version": "1.0.0",
+  "description": "Javascript solutions to LeetCode problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "testem"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "testem": "^1.16.2"
+  }
+}
